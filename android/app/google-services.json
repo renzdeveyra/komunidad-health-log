@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738438674511",
+    "project_id": "komunidad-health-log",
+    "storage_bucket": "komunidad-health-log.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738438674511:android:42ee19be7253dcde22123a",
+        "android_client_info": {
+          "package_name": "com.example.klh_prototype_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7RD2iO8PezuzeUz9m7M5e4W3p4aecLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
