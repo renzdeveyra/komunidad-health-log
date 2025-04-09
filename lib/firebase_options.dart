@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD4F6dt1uAL6oCgDXQohYdd69tMX4ot6vs',
+    apiKey: '',
     appId: '1:738438674511:web:c385719817ad026222123a',
     messagingSenderId: '738438674511',
     projectId: 'komunidad-health-log',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBv7RD2iO8PezuzeUz9m7M5e4W3p4aecLE',
+    apiKey: '',
     appId: '1:738438674511:android:42ee19be7253dcde22123a',
     messagingSenderId: '738438674511',
     projectId: 'komunidad-health-log',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBwo7ymlykmbxICO_59vTwXPfjr1mvdbts',
+    apiKey: '',
     appId: '1:738438674511:ios:6cbff15b6640412c22123a',
     messagingSenderId: '738438674511',
     projectId: 'komunidad-health-log',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBwo7ymlykmbxICO_59vTwXPfjr1mvdbts',
+    apiKey: '',
     appId: '1:738438674511:ios:6cbff15b6640412c22123a',
     messagingSenderId: '738438674511',
     projectId: 'komunidad-health-log',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD4F6dt1uAL6oCgDXQohYdd69tMX4ot6vs',
+    apiKey: '',
     appId: '1:738438674511:web:fff2a4dbdd0a2d2a22123a',
     messagingSenderId: '738438674511',
     projectId: 'komunidad-health-log',
